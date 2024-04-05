@@ -1,0 +1,122 @@
+[
+  {
+    "id": "31b9a7fc-42ac-4d3d-aaf4-6545f9d71b4c",
+    "model": "Toyota Corolla",
+    "year": 2020,
+    "price": 25000
+  },
+  {
+    "id": "a70bfb63-f3c5-4928-9f97-6e288f29ab29",
+    "model": "Honda Civic",
+    "year": 2019,
+    "price": 23000
+  },
+  {
+    "id": "d12a70b9-f20b-44c4-8504-66f6b7a8b07d",
+    "model": "Ford Mustang",
+    "year": 2021,
+    "price": 35000
+  },
+  {
+    "id": "e7a42497-c3a1-45ed-bf6f-2a9e0e235c70",
+    "model": "Chevrolet Camaro",
+    "year": 2018,
+    "price": 30000
+  },
+  {
+    "id": "7c8b5d8d-1d9e-4636-b634-3c1c896992e1",
+    "model": "Volkswagen Golf",
+    "year": 2017,
+    "price": 20000
+  },
+  {
+    "id": "f7c1cf78-5487-49aa-98fc-501d4c9bb8fc",
+    "model": "BMW 3 Series",
+    "year": 2022,
+    "price": 40000
+  },
+  {
+    "id": "a1d13dbf-89ae-45c6-9910-098c7ccf1747",
+    "model": "Audi A4",
+    "year": 2020,
+    "price": 38000
+  },
+  {
+    "id": "66de6b92-7f0c-4f46-98eb-446d486e620e",
+    "model": "Mercedes-Benz C-Class",
+    "year": 2019,
+    "price": 42000
+  },
+  {
+    "id": "828d1b34-44ec-4ef2-a77b-3d9f4e00db71",
+    "model": "Hyundai Elantra",
+    "year": 2023,
+    "price": 26000
+  },
+  {
+    "id": "66b8ed1e-7503-4b5b-bc85-90b893ec96e8",
+    "model": "Kia Optima",
+    "year": 2022,
+    "price": 28000
+  },
+  {
+    "id": "a2516364-017b-4544-96e5-30347989eaf4",
+    "model": "Tesla Model 3",
+    "year": 2021,
+    "price": 45000
+  },
+  {
+    "id": "05a17163-dab5-4698-96e5-ecfe6d57d887",
+    "model": "Nissan Altima",
+    "year": 2020,
+    "price": 27000
+  },
+  {
+    "id": "3b628b5f-2f92-41b0-b720-9e57e3df68ff",
+    "model": "Subaru Impreza",
+    "year": 2018,
+    "price": 22000
+  },
+  {
+    "id": "80dab9fc-9b20-4d88-92cc-4f4e8932f5cd",
+    "model": "Mazda3",
+    "year": 2019,
+    "price": 24000
+  },
+  {
+    "id": "021cb1b4-d18d-441d-bcf0-5c4b193dab1e",
+    "model": "Lexus IS",
+    "year": 2022,
+    "price": 47000
+  },
+  {
+    "id": "af9d6e6d-95b8-4c79-9d1d-9ecb5f0447b1",
+    "model": "Volvo S60",
+    "year": 2020,
+    "price": 39000
+  },
+  {
+    "id": "ab1a3614-3cb1-41ff-b880-18a74f13d920",
+    "model": "Infiniti Q50",
+    "year": 2017,
+    "price": 32000
+  },
+  {
+    "id": "40f59c02-0f11-4ed7-a5d1-2e2da9f4a615",
+    "model": "Acura TLX",
+    "year": 2021,
+    "price": 37000
+  },
+  {
+    "id": "b96c1b13-6b11-4a4f-af22-34e5fc87970e",
+    "model": "Jaguar XE",
+    "year": 2019,
+    "price": 44000
+  },
+  {
+    "id": "e54a5ad9-d330-4d53-9c6a-3b43b3e77a14",
+    "model": "Porsche Panamera",
+    "year": 2023,
+    "price": 55000
+  }
+]
