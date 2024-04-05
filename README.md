@@ -48,5 +48,5 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Documentation to install react navigation and react stack navigator
 
-[React navigation](https://reactnavigation.org/docs/getting-started)
-[React Stack](https://reactnavigation.org/docs/stack-navigator)
+- [React navigation](https://reactnavigation.org/docs/getting-started)
+- [React Stack](https://reactnavigation.org/docs/stack-navigator)
